@@ -1,6 +1,6 @@
 import React from 'react'
 import './Hero.css'
-import dark_arrow from '/Users/sampath/Desktop/eduversity/src/assets/dark-arrow.png'
+import dark_arrow from '../../assets/dark_arrow'
 const Hero = () => {
   return (
     <div className='hero container'>
