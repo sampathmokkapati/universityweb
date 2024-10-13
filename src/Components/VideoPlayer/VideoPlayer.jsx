@@ -1,6 +1,6 @@
 import React, { useRef } from 'react'
 import './VideoPlayer.css'
-import video from '/Users/sampath/Desktop/eduversity/src/assets/2086113-hd_1920_1080_30fps.mp4'
+import video from 'demo.mp4'
 const VideoPlayer = ({playState, setPlayState}) => {
 
 const player = useRef(null);
